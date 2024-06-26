@@ -1,5 +1,5 @@
 
-<img src="self.jpg" alt="A picture of myself" width="200"/>
+<img align="center" src="self.jpg" alt="A picture of myself" width="200"/>
 
 # Bio
 
