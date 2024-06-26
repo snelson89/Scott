@@ -1,11 +1,3 @@
-# This is a header
+# Bio
 
-This is regular text
-
-## This is a smaller header
-
-This is regular text
-
-### This is an even smaller header
-
-This is regular text
+I am a PhD candidate in the [Stony Brook Linguistics Department](https://www.linguistics.stonybrook.edu). 
